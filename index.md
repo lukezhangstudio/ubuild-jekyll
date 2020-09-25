@@ -23,11 +23,10 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Hi,<br><strong>we're Naratree Capital<br></strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Hi,<br><strong>We're Naratree Capital<br></strong>
+  content: We acquire small web businesses and SaaS products and help them grow
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
